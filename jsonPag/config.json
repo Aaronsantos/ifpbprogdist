@@ -1,0 +1,6 @@
+{
+    "server_port" : "8000",
+    "queeue" : "pagamento_banco",
+    "broker": "amqp://localhost",
+    "broker_port": ""
+}
